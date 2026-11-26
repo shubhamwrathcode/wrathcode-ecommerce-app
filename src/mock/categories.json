@@ -1,0 +1,326 @@
+[
+ {
+  "id": "electronics",
+  "name": "Electronics",
+  "icon": "laptop-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
+  "parentId": null,
+  "sortOrder": 1,
+  "color": "#7C03B2"
+ },
+ {
+  "id": "audio",
+  "name": "Audio",
+  "icon": "headset-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
+  "parentId": "electronics",
+  "sortOrder": 1,
+  "color": "#7C03B2"
+ },
+ {
+  "id": "laptops",
+  "name": "Laptops",
+  "icon": "laptop-outline",
+  "image": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
+  "parentId": "electronics",
+  "sortOrder": 2,
+  "color": "#7C03B2"
+ },
+ {
+  "id": "smart-devices",
+  "name": "Smart Devices",
+  "icon": "watch-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+  "parentId": "electronics",
+  "sortOrder": 3,
+  "color": "#7C03B2"
+ },
+ {
+  "id": "camera-gear",
+  "name": "Camera Gear",
+  "icon": "camera-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp",
+  "parentId": "electronics",
+  "sortOrder": 4,
+  "color": "#7C03B2"
+ },
+ {
+  "id": "mobiles",
+  "name": "Mobiles",
+  "icon": "phone-portrait-outline",
+  "image": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp",
+  "parentId": null,
+  "sortOrder": 2,
+  "color": "#A218C2"
+ },
+ {
+  "id": "smartphones",
+  "name": "Smartphones",
+  "icon": "phone-portrait-outline",
+  "image": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp",
+  "parentId": "mobiles",
+  "sortOrder": 1,
+  "color": "#A218C2"
+ },
+ {
+  "id": "tablets",
+  "name": "Tablets",
+  "icon": "tablet-portrait-outline",
+  "image": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp",
+  "parentId": "mobiles",
+  "sortOrder": 2,
+  "color": "#A218C2"
+ },
+ {
+  "id": "mobile-accessories",
+  "name": "Accessories",
+  "icon": "battery-charging-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp",
+  "parentId": "mobiles",
+  "sortOrder": 3,
+  "color": "#A218C2"
+ },
+ {
+  "id": "fashion-men",
+  "name": "Men",
+  "icon": "shirt-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+  "parentId": null,
+  "sortOrder": 3,
+  "color": "#54018B"
+ },
+ {
+  "id": "men-shirts",
+  "name": "Shirts & Tees",
+  "icon": "shirt-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+  "parentId": "fashion-men",
+  "sortOrder": 1,
+  "color": "#54018B"
+ },
+ {
+  "id": "men-footwear",
+  "name": "Sneakers",
+  "icon": "footsteps-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+  "parentId": "fashion-men",
+  "sortOrder": 2,
+  "color": "#54018B"
+ },
+ {
+  "id": "men-watches",
+  "name": "Watches",
+  "icon": "watch-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+  "parentId": "fashion-men",
+  "sortOrder": 3,
+  "color": "#54018B"
+ },
+ {
+  "id": "men-sunglasses",
+  "name": "Sunglasses",
+  "icon": "glasses-outline",
+  "image": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+  "parentId": "fashion-men",
+  "sortOrder": 4,
+  "color": "#54018B"
+ },
+ {
+  "id": "fashion-women",
+  "name": "Women",
+  "icon": "woman-outline",
+  "image": "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+  "parentId": null,
+  "sortOrder": 4,
+  "color": "#DE24F8"
+ },
+ {
+  "id": "women-dresses",
+  "name": "Dresses",
+  "icon": "woman-outline",
+  "image": "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+  "parentId": "fashion-women",
+  "sortOrder": 1,
+  "color": "#DE24F8"
+ },
+ {
+  "id": "women-footwear",
+  "name": "Heels & Flats",
+  "icon": "footsteps-outline",
+  "image": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+  "parentId": "fashion-women",
+  "sortOrder": 2,
+  "color": "#DE24F8"
+ },
+ {
+  "id": "women-bags",
+  "name": "Handbags",
+  "icon": "bag-handle-outline",
+  "image": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+  "parentId": "fashion-women",
+  "sortOrder": 3,
+  "color": "#DE24F8"
+ },
+ {
+  "id": "women-jewellery",
+  "name": "Jewellery",
+  "icon": "diamond-outline",
+  "image": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
+  "parentId": "fashion-women",
+  "sortOrder": 4,
+  "color": "#DE24F8"
+ },
+ {
+  "id": "home-kitchen",
+  "name": "Home & Kitchen",
+  "icon": "home-outline",
+  "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp",
+  "parentId": null,
+  "sortOrder": 5,
+  "color": "#8E0FB8"
+ },
+ {
+  "id": "cookware",
+  "name": "Cookware",
+  "icon": "restaurant-outline",
+  "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp",
+  "parentId": "home-kitchen",
+  "sortOrder": 1,
+  "color": "#8E0FB8"
+ },
+ {
+  "id": "appliances",
+  "name": "Appliances",
+  "icon": "cafe-outline",
+  "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+  "parentId": "home-kitchen",
+  "sortOrder": 2,
+  "color": "#8E0FB8"
+ },
+ {
+  "id": "decor",
+  "name": "Decor",
+  "icon": "flower-outline",
+  "image": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+  "parentId": "home-kitchen",
+  "sortOrder": 3,
+  "color": "#8E0FB8"
+ },
+ {
+  "id": "furniture",
+  "name": "Furniture",
+  "icon": "bed-outline",
+  "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+  "parentId": "home-kitchen",
+  "sortOrder": 4,
+  "color": "#8E0FB8"
+ },
+ {
+  "id": "beauty",
+  "name": "Beauty",
+  "icon": "sparkles-outline",
+  "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+  "parentId": null,
+  "sortOrder": 6,
+  "color": "#C21BE0"
+ },
+ {
+  "id": "makeup",
+  "name": "Makeup",
+  "icon": "color-palette-outline",
+  "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+  "parentId": "beauty",
+  "sortOrder": 1,
+  "color": "#C21BE0"
+ },
+ {
+  "id": "fragrance",
+  "name": "Fragrance",
+  "icon": "flask-outline",
+  "image": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+  "parentId": "beauty",
+  "sortOrder": 2,
+  "color": "#C21BE0"
+ },
+ {
+  "id": "skincare",
+  "name": "Bath & Body",
+  "icon": "water-outline",
+  "image": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
+  "parentId": "beauty",
+  "sortOrder": 3,
+  "color": "#C21BE0"
+ },
+ {
+  "id": "books",
+  "name": "Books",
+  "icon": "book-outline",
+  "image": "https://covers.openlibrary.org/b/id/14348537-L.jpg",
+  "parentId": null,
+  "sortOrder": 7,
+  "color": "#410574"
+ },
+ {
+  "id": "fiction",
+  "name": "Fiction",
+  "icon": "book-outline",
+  "image": "https://covers.openlibrary.org/b/id/14348537-L.jpg",
+  "parentId": "books",
+  "sortOrder": 1,
+  "color": "#410574"
+ },
+ {
+  "id": "non-fiction",
+  "name": "Non-Fiction",
+  "icon": "library-outline",
+  "image": "https://covers.openlibrary.org/b/id/12539702-L.jpg",
+  "parentId": "books",
+  "sortOrder": 2,
+  "color": "#410574"
+ },
+ {
+  "id": "kids-books",
+  "name": "Kids",
+  "icon": "happy-outline",
+  "image": "https://covers.openlibrary.org/b/id/7835968-L.jpg",
+  "parentId": "books",
+  "sortOrder": 3,
+  "color": "#410574"
+ },
+ {
+  "id": "sports",
+  "name": "Sports",
+  "icon": "football-outline",
+  "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp",
+  "parentId": null,
+  "sortOrder": 8,
+  "color": "#7C03B2"
+ },
+ {
+  "id": "cricket",
+  "name": "Cricket",
+  "icon": "baseball-outline",
+  "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp",
+  "parentId": "sports",
+  "sortOrder": 1,
+  "color": "#7C03B2"
+ },
+ {
+  "id": "ball-sports",
+  "name": "Ball Sports",
+  "icon": "football-outline",
+  "image": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp",
+  "parentId": "sports",
+  "sortOrder": 2,
+  "color": "#7C03B2"
+ },
+ {
+  "id": "racquet-sports",
+  "name": "Racquet Sports",
+  "icon": "tennisball-outline",
+  "image": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp",
+  "parentId": "sports",
+  "sortOrder": 3,
+  "color": "#7C03B2"
+ }
+]

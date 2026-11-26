@@ -1,0 +1,143 @@
+[
+ {
+  "id": "b1",
+  "title": "Bass Drop Sale 🎧",
+  "subtitle": "Up to 60% off on headphones, earbuds & speakers",
+  "cta": "Shop now",
+  "color": "#410574",
+  "accent": "#DE24F8",
+  "icon": "headset-outline",
+  "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
+  "tag": "UP TO 60% OFF",
+  "placement": "home",
+  "target": {
+   "type": "category",
+   "categoryId": "electronics"
+  }
+ },
+ {
+  "id": "b2",
+  "title": "Drip Check 👗",
+  "subtitle": "Fresh fits at flat 50% off and more",
+  "cta": "Explore",
+  "color": "#7C03B2",
+  "accent": "#F6A8FF",
+  "icon": "shirt-outline",
+  "image": "https://cdn.dummyjson.com/product-images/tops/gray-dress/1.webp",
+  "tag": "FLAT 50% OFF",
+  "placement": "home",
+  "target": {
+   "type": "list",
+   "title": "Fashion — 50% off & more",
+   "filters": {
+    "categoryIds": [
+     "fashion-men",
+     "fashion-women"
+    ],
+    "minDiscount": 50
+   }
+  }
+ },
+ {
+  "id": "b3",
+  "title": "Phone Glow-Up 📱",
+  "subtitle": "Latest 5G phones with no-cost EMI",
+  "cta": "Grab deals",
+  "color": "#54018B",
+  "accent": "#B11BD8",
+  "icon": "phone-portrait-outline",
+  "image": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp",
+  "tag": "NO-COST EMI",
+  "placement": "home",
+  "target": {
+   "type": "category",
+   "categoryId": "mobiles"
+  }
+ },
+ {
+  "id": "b4",
+  "title": "Room Makeover ✨",
+  "subtitle": "Decor, kitchen & furniture from Rs. 399",
+  "cta": "Discover",
+  "color": "#2A0B52",
+  "accent": "#7C03B2",
+  "icon": "home-outline",
+  "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+  "tag": "FROM ₹399",
+  "placement": "home",
+  "target": {
+   "type": "category",
+   "categoryId": "home-kitchen"
+  }
+ },
+ {
+  "id": "b5",
+  "title": "Steals Under ₹999 💸",
+  "subtitle": "Pocket-friendly picks across categories",
+  "cta": "View all",
+  "color": "#8E0FB8",
+  "accent": "#F06BFF",
+  "icon": "pricetags-outline",
+  "image": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+  "tag": "UNDER ₹999",
+  "placement": "home",
+  "target": {
+   "type": "list",
+   "title": "Under Rs. 999",
+   "filters": {
+    "priceMax": 999
+   }
+  }
+ },
+ {
+  "id": "cb1",
+  "title": "Game On 🏏",
+  "subtitle": "Sports gear from Rs. 299",
+  "cta": "Shop",
+  "color": "#410574",
+  "accent": "#DE24F8",
+  "icon": "baseball-outline",
+  "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp",
+  "tag": "FROM ₹299",
+  "placement": "category",
+  "categoryId": "sports",
+  "target": {
+   "type": "category",
+   "categoryId": "sports"
+  }
+ },
+ {
+  "id": "cb2",
+  "title": "Glow Up ✨",
+  "subtitle": "Makeup & fragrance bestsellers",
+  "cta": "Shop",
+  "color": "#7C03B2",
+  "accent": "#DE24F8",
+  "icon": "sparkles-outline",
+  "image": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+  "tag": "BESTSELLERS",
+  "placement": "category",
+  "categoryId": "beauty",
+  "target": {
+   "type": "category",
+   "categoryId": "beauty"
+  }
+ },
+ {
+  "id": "cb3",
+  "title": "Read More 📚",
+  "subtitle": "Bestselling books from Rs. 199",
+  "cta": "Shop",
+  "color": "#54018B",
+  "accent": "#DE24F8",
+  "icon": "book-outline",
+  "image": "https://covers.openlibrary.org/b/id/12539702-L.jpg",
+  "tag": "FROM ₹199",
+  "placement": "category",
+  "categoryId": "books",
+  "target": {
+   "type": "category",
+   "categoryId": "books"
+  }
+ }
+]

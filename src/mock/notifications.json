@@ -1,0 +1,29 @@
+[
+ {
+  "id": "n_offer_1",
+  "type": "offer",
+  "title": "Weekend sale is live 🎉",
+  "body": "Up to 60% off on electronics. Use SAVE100 for an extra Rs. 100 off.",
+  "orderId": null,
+  "isRead": false,
+  "createdAt": "2026-11-24T07:00:00.000Z"
+ },
+ {
+  "id": "n_offer_2",
+  "type": "offer",
+  "title": "Free delivery on everything",
+  "body": "Apply FREESHIP at checkout and skip the delivery fee today.",
+  "orderId": null,
+  "isRead": false,
+  "createdAt": "2026-11-23T07:00:00.000Z"
+ },
+ {
+  "id": "n_offer_3",
+  "type": "offer",
+  "title": "Fashion Week: 20% off",
+  "body": "Use FASHION20 on fashion items, up to Rs. 500 off.",
+  "orderId": null,
+  "isRead": true,
+  "createdAt": "2026-11-21T09:00:00.000Z"
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "id": "faq1",
+  "question": "How do I track my order?",
+  "answer": "Go to Account > My Orders, open the order and tap \"Track order\" to see the live timeline."
+ },
+ {
+  "id": "faq2",
+  "question": "Can I cancel my order?",
+  "answer": "Yes. Orders can be cancelled any time before they are shipped from the order details page."
+ },
+ {
+  "id": "faq3",
+  "question": "What is the return policy?",
+  "answer": "Most items can be returned or replaced within 7 days of delivery (10 days for fashion). Items like beauty products are not returnable."
+ },
+ {
+  "id": "faq4",
+  "question": "When will I get my refund?",
+  "answer": "Refunds for prepaid orders are initiated to the original payment method as soon as the return is picked up, and usually reflect in 5-7 business days."
+ },
+ {
+  "id": "faq5",
+  "question": "Is Cash on Delivery available?",
+  "answer": "Yes, COD is available for orders up to Rs. 10,000 with a Rs. 10 handling fee."
+ },
+ {
+  "id": "faq6",
+  "question": "How do I apply a coupon?",
+  "answer": "On the cart page tap \"Apply coupon\", pick a coupon from the list or type a code. Only one coupon can be used per order."
+ },
+ {
+  "id": "faq7",
+  "question": "What are the delivery charges?",
+  "answer": "Standard delivery is free for orders of Rs. 499 and above, otherwise Rs. 40. Express delivery costs Rs. 99 extra."
+ },
+ {
+  "id": "faq8",
+  "question": "How do I change my delivery address?",
+  "answer": "You can add or edit addresses from Account > Saved addresses, or while placing an order in the checkout address step."
+ },
+ {
+  "id": "faq9",
+  "question": "Is it safe to save my card?",
+  "answer": "We only keep the last 4 digits of your card for display. Full card numbers and CVV are never stored."
+ },
+ {
+  "id": "faq10",
+  "question": "Why is my pincode not serviceable?",
+  "answer": "We are expanding fast! Some remote pincodes are not yet covered. Try a nearby pincode or check back soon."
+ },
+ {
+  "id": "faq11",
+  "question": "How do I write a review?",
+  "answer": "Once your order is delivered, open it from My Orders and tap \"Rate & review\" next to the item."
+ },
+ {
+  "id": "faq12",
+  "question": "How can I contact support?",
+  "answer": "Use the Contact us section below to call, email or chat with our support team, available 9 AM to 9 PM."
+ },
+ {
+  "id": "faq13",
+  "question": "Can I change my order after placing it?",
+  "answer": "Orders cannot be edited after placing them. You can cancel and place a new order before it is shipped."
+ }
+]

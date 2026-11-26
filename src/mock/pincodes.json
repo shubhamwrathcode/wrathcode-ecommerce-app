@@ -1,0 +1,268 @@
+{
+ "serviceable": [
+  {
+   "pincode": "110001",
+   "city": "New Delhi",
+   "state": "Delhi"
+  },
+  {
+   "pincode": "110017",
+   "city": "New Delhi",
+   "state": "Delhi"
+  },
+  {
+   "pincode": "110085",
+   "city": "New Delhi",
+   "state": "Delhi"
+  },
+  {
+   "pincode": "110092",
+   "city": "New Delhi",
+   "state": "Delhi"
+  },
+  {
+   "pincode": "400001",
+   "city": "Mumbai",
+   "state": "Maharashtra"
+  },
+  {
+   "pincode": "400050",
+   "city": "Mumbai",
+   "state": "Maharashtra"
+  },
+  {
+   "pincode": "400076",
+   "city": "Mumbai",
+   "state": "Maharashtra"
+  },
+  {
+   "pincode": "400703",
+   "city": "Navi Mumbai",
+   "state": "Maharashtra"
+  },
+  {
+   "pincode": "560001",
+   "city": "Bengaluru",
+   "state": "Karnataka"
+  },
+  {
+   "pincode": "560034",
+   "city": "Bengaluru",
+   "state": "Karnataka"
+  },
+  {
+   "pincode": "560066",
+   "city": "Bengaluru",
+   "state": "Karnataka"
+  },
+  {
+   "pincode": "560103",
+   "city": "Bengaluru",
+   "state": "Karnataka"
+  },
+  {
+   "pincode": "600001",
+   "city": "Chennai",
+   "state": "Tamil Nadu"
+  },
+  {
+   "pincode": "600028",
+   "city": "Chennai",
+   "state": "Tamil Nadu"
+  },
+  {
+   "pincode": "600096",
+   "city": "Chennai",
+   "state": "Tamil Nadu"
+  },
+  {
+   "pincode": "700001",
+   "city": "Kolkata",
+   "state": "West Bengal"
+  },
+  {
+   "pincode": "700019",
+   "city": "Kolkata",
+   "state": "West Bengal"
+  },
+  {
+   "pincode": "700091",
+   "city": "Kolkata",
+   "state": "West Bengal"
+  },
+  {
+   "pincode": "411001",
+   "city": "Pune",
+   "state": "Maharashtra"
+  },
+  {
+   "pincode": "411057",
+   "city": "Pune",
+   "state": "Maharashtra"
+  },
+  {
+   "pincode": "500001",
+   "city": "Hyderabad",
+   "state": "Telangana"
+  },
+  {
+   "pincode": "500032",
+   "city": "Hyderabad",
+   "state": "Telangana"
+  },
+  {
+   "pincode": "500081",
+   "city": "Hyderabad",
+   "state": "Telangana"
+  },
+  {
+   "pincode": "380001",
+   "city": "Ahmedabad",
+   "state": "Gujarat"
+  },
+  {
+   "pincode": "380015",
+   "city": "Ahmedabad",
+   "state": "Gujarat"
+  },
+  {
+   "pincode": "395003",
+   "city": "Surat",
+   "state": "Gujarat"
+  },
+  {
+   "pincode": "302001",
+   "city": "Jaipur",
+   "state": "Rajasthan"
+  },
+  {
+   "pincode": "302017",
+   "city": "Jaipur",
+   "state": "Rajasthan"
+  },
+  {
+   "pincode": "313001",
+   "city": "Udaipur",
+   "state": "Rajasthan"
+  },
+  {
+   "pincode": "226001",
+   "city": "Lucknow",
+   "state": "Uttar Pradesh"
+  },
+  {
+   "pincode": "201301",
+   "city": "Noida",
+   "state": "Uttar Pradesh"
+  },
+  {
+   "pincode": "208001",
+   "city": "Kanpur",
+   "state": "Uttar Pradesh"
+  },
+  {
+   "pincode": "122001",
+   "city": "Gurugram",
+   "state": "Haryana"
+  },
+  {
+   "pincode": "160017",
+   "city": "Chandigarh",
+   "state": "Chandigarh"
+  },
+  {
+   "pincode": "141001",
+   "city": "Ludhiana",
+   "state": "Punjab"
+  },
+  {
+   "pincode": "452001",
+   "city": "Indore",
+   "state": "Madhya Pradesh"
+  },
+  {
+   "pincode": "462001",
+   "city": "Bhopal",
+   "state": "Madhya Pradesh"
+  },
+  {
+   "pincode": "440001",
+   "city": "Nagpur",
+   "state": "Maharashtra"
+  },
+  {
+   "pincode": "682001",
+   "city": "Kochi",
+   "state": "Kerala"
+  },
+  {
+   "pincode": "695001",
+   "city": "Thiruvananthapuram",
+   "state": "Kerala"
+  },
+  {
+   "pincode": "641001",
+   "city": "Coimbatore",
+   "state": "Tamil Nadu"
+  },
+  {
+   "pincode": "641018",
+   "city": "Coimbatore",
+   "state": "Tamil Nadu"
+  },
+  {
+   "pincode": "530001",
+   "city": "Visakhapatnam",
+   "state": "Andhra Pradesh"
+  },
+  {
+   "pincode": "751001",
+   "city": "Bhubaneswar",
+   "state": "Odisha"
+  },
+  {
+   "pincode": "781001",
+   "city": "Guwahati",
+   "state": "Assam"
+  },
+  {
+   "pincode": "800001",
+   "city": "Patna",
+   "state": "Bihar"
+  },
+  {
+   "pincode": "834001",
+   "city": "Ranchi",
+   "state": "Jharkhand"
+  },
+  {
+   "pincode": "248001",
+   "city": "Dehradun",
+   "state": "Uttarakhand"
+  },
+  {
+   "pincode": "403001",
+   "city": "Panaji",
+   "state": "Goa"
+  },
+  {
+   "pincode": "180001",
+   "city": "Jammu",
+   "state": "Jammu & Kashmir"
+  }
+ ],
+ "nonServiceable": [
+  "999999",
+  "744101",
+  "194101",
+  "737101",
+  "790001"
+ ],
+ "metroPrefixes": [
+  "11",
+  "40",
+  "56",
+  "60",
+  "70"
+ ]
+}

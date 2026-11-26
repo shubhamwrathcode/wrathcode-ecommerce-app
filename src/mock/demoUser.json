@@ -1,0 +1,100 @@
+{
+ "user": {
+  "id": "u_demo",
+  "name": "Riya Sharma",
+  "mobile": "9876543210",
+  "email": "demo@shopverse.app",
+  "password": "Demo@123",
+  "gender": "female",
+  "dob": "14/08/1995",
+  "avatar": null,
+  "createdAt": "2025-10-20T09:00:00.000Z"
+ },
+ "addresses": [
+  {
+   "id": "a_demo_1",
+   "userId": "u_demo",
+   "name": "Riya Sharma",
+   "mobile": "9876543210",
+   "pincode": "560034",
+   "line1": "Flat 302, Lakeview Residency",
+   "line2": "17th Main Road, Koramangala",
+   "landmark": "Near Forum Mall",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "type": "Home",
+   "isDefault": true
+  },
+  {
+   "id": "a_demo_2",
+   "userId": "u_demo",
+   "name": "Riya Sharma",
+   "mobile": "9876543210",
+   "pincode": "400076",
+   "line1": "5th Floor, Orbit Tech Park",
+   "line2": "Hiranandani Gardens, Powai",
+   "landmark": "Opp. Lake Gate",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "type": "Work",
+   "isDefault": false
+  }
+ ],
+ "wishlist": [
+  {
+   "productId": "p072",
+   "priceAtAdd": 249
+  },
+  {
+   "productId": "p015",
+   "priceAtAdd": 11119
+  },
+  {
+   "productId": "p092",
+   "priceAtAdd": 629
+  },
+  {
+   "productId": "p001",
+   "priceAtAdd": 16209
+  },
+  {
+   "productId": "p030",
+   "priceAtAdd": 499
+  },
+  {
+   "productId": "p032",
+   "priceAtAdd": 3819
+  }
+ ],
+ "orders": [
+  {
+   "key": "delivered",
+   "productIds": [
+    "p007",
+    "p038"
+   ],
+   "payment": "upi"
+  },
+  {
+   "key": "in_transit",
+   "productIds": [
+    "p018"
+   ],
+   "payment": "card"
+  },
+  {
+   "key": "placed",
+   "productIds": [
+    "p056"
+   ],
+   "payment": "cod"
+  },
+  {
+   "key": "cancelled",
+   "productIds": [
+    "p028"
+   ],
+   "payment": "upi"
+  }
+ ]
+}

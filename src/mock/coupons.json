@@ -1,0 +1,89 @@
+[
+ {
+  "code": "WELCOME10",
+  "title": "10% off on your first order",
+  "description": "Get 10% off up to Rs. 200 on your first order. Min cart value Rs. 299.",
+  "type": "percent",
+  "value": 10,
+  "maxDiscount": 200,
+  "minCart": 299,
+  "categoryIds": null,
+  "firstOrderOnly": true,
+  "excludeDeals": false,
+  "notWithExpress": false,
+  "expiry": "2027-11-24T09:00:00.000Z"
+ },
+ {
+  "code": "SAVE100",
+  "title": "Flat Rs. 100 off",
+  "description": "Flat Rs. 100 off on orders of Rs. 999 and above.",
+  "type": "flat",
+  "value": 100,
+  "maxDiscount": null,
+  "minCart": 999,
+  "categoryIds": null,
+  "firstOrderOnly": false,
+  "excludeDeals": false,
+  "notWithExpress": false,
+  "expiry": "2027-11-24T09:00:00.000Z"
+ },
+ {
+  "code": "FREESHIP",
+  "title": "Free delivery",
+  "description": "Delivery charge waived on any cart value. Not valid with Express delivery.",
+  "type": "shipping",
+  "value": 0,
+  "maxDiscount": null,
+  "minCart": 0,
+  "categoryIds": null,
+  "firstOrderOnly": false,
+  "excludeDeals": false,
+  "notWithExpress": true,
+  "expiry": "2027-11-24T09:00:00.000Z"
+ },
+ {
+  "code": "FASHION20",
+  "title": "20% off on Fashion",
+  "description": "20% off up to Rs. 500 on Fashion Men & Women items in your cart.",
+  "type": "percent",
+  "value": 20,
+  "maxDiscount": 500,
+  "minCart": 0,
+  "categoryIds": [
+   "fashion-men",
+   "fashion-women"
+  ],
+  "firstOrderOnly": false,
+  "excludeDeals": false,
+  "notWithExpress": false,
+  "expiry": "2027-11-24T09:00:00.000Z"
+ },
+ {
+  "code": "MEGA500",
+  "title": "Flat Rs. 500 off",
+  "description": "Flat Rs. 500 off on orders of Rs. 4,999 and above. Not valid on Deal of the Day items.",
+  "type": "flat",
+  "value": 500,
+  "maxDiscount": null,
+  "minCart": 4999,
+  "categoryIds": null,
+  "firstOrderOnly": false,
+  "excludeDeals": true,
+  "notWithExpress": false,
+  "expiry": "2027-11-24T09:00:00.000Z"
+ },
+ {
+  "code": "EXPIRED50",
+  "title": "Flat Rs. 50 off",
+  "description": "Flat Rs. 50 off on any order.",
+  "type": "flat",
+  "value": 50,
+  "maxDiscount": null,
+  "minCart": 0,
+  "categoryIds": null,
+  "firstOrderOnly": false,
+  "excludeDeals": false,
+  "notWithExpress": false,
+  "expiry": "2026-10-25T09:00:00.000Z"
+ }
+]
